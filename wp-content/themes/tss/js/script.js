@@ -142,7 +142,7 @@ jQuery(document).ready(function($){
 				
 		$.ajax({
 			type: "POST",
-			url: "/tssc_staging/wp-content/themes/tss/mailer/send.php",
+			url: "/wp-content/themes/tss/mailer/send.php",
 			data: dataString,
 			success: function(data) {
 				if (data === 'SUCCESS') {
