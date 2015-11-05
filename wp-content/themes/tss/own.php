@@ -37,7 +37,7 @@ get_header(); ?>
 								registered Trademark for The Sandwich Spot&reg;.  The business was a start up company funded by the founder
 								Thomas M. Heally. With over 27 years in the food industry Mr. Heally has used his extensive background to
 								develop an above average profitable Fast-Casual business model that specializes in quality fresh products,
-								fresh baked breads, and superior customer service.  By the end of 2010, The Sandwich Spot&reg; had helped eight
+								fresh baked breads, and superior customer service.  By the end of 2014, The Sandwich Spot&reg; had helped 25
 								Owner-Operators to start their own The Sandwich Spot&reg;. </p>
 							</div>
 							<div class="r-col">
@@ -69,7 +69,7 @@ get_header(); ?>
 							</div>
 							<div class="r-col">
 								<p>His knowledge of the business helped launch the company from 1 location to 8 locations from 2004 to 2006 -
-								a tremendous growth in just two years.  After franchising, Tom decided to leave
+								a tremendous growth in just seven years.  After franchising, Tom decided to leave
 								and move back to the original structure of the company based on Owner-Operators who could give back to communities
 								without adhering to strict franchising guidelines.  Thus, The Sandwich Spot&reg; was started.</p>
 								<p>The Sandwich Spot&reg; is a successful "Turn-Key" business model and an opportunity with a very bright future
@@ -84,8 +84,9 @@ get_header(); ?>
 						<div class="col-text">
 							<div class="l-col">
 								<p>The Sandwich Spot&reg; is a Fast-Casual restaurant based out of Elk Grove, California.  Launched in 2007
-								The Sandwich Spot&reg; has grown to eight locations, two in the Bay Area, five in the Greater Sacramento Area,
-								a Santa Monica location, and a location in Rohnert Park. The Sandwich Spot&reg; specializes in freshly made
+								The Sandwich Spot&reg; has grown to 25 locations 10 in the Bay Area, 12 in the greater 
+								Sacramento area as well as locations in Palm Springs,Simi valley,Santa Cruz  and Las Vegas Nevada. 
+								The Sandwich Spot&reg; specializes in freshly made
 								specialty sandwiches made containing only the finest quality ingredients and freshly baked breads. We are 
 								known for our superior customer service as well as our neighborhood friendly feel. We are successful because
 								our commitment to our product and service is second to none.  Owners of The Sandwich Spot&reg; are Independent
@@ -94,7 +95,7 @@ get_header(); ?>
 								than with franchised chain restaurants.</p>
 								<p>Owners are free to theme their shop according to their likes and add in elements of the community they
 								are located in.  As part of The Sandwich Spot's proprietary information provided to Owners, they receive
-								a base menu with the ability to expand it in any way they like. They received 30 days initial training as well.
+								a base menu with the ability to expand it in any way they like. They received 21 days initial training as well.
 								Mr.Heally advises Owners about P.R., and the type of community involvement that makes The Sandwich Spot&reg;
 								a highly successful shop and attracts more loyal customers.</p>
 								<p>The company has had tremendous growth in just 3 years through some of the toughest financial times we've

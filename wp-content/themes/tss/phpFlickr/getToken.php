@@ -9,7 +9,7 @@
      */
 
     require_once("phpFlickr.php");
-    $f = new phpFlickr("0917e22e53058d093989f8e15b5511ea", "99c26be2a385501c");
+    $f = new phpFlickr("<api key>", "<secret>");
     
     //change this to the permissions you will need
     $f->auth("read");

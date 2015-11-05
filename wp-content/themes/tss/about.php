@@ -54,9 +54,10 @@ get_header(); ?>
 								<p>In 2010, Colonel Tom Slick and Captain Jack Lucky joined forces to open the next generation of
 								Sandwich Spots. Located in the Marina District in beautiful San Francisco, CA., the store has drawn
 								local attention as the best sandwich shop in the ever bustling Marina District! With its success the
-								expansion has rippled through the penninsula expanding stores in San Carlos, CA>, Redwood City, CA.,
-								Millbrae, CA., and coming soon to San Mateo, CA.!! Plans have also been finalized for a location in Sunny Palm
-								Springs as well!!</p>
+								expansion has rippled through the penninsula expanding stores in San Carlos, CA, Redwood City, CA.,
+								Mountain View, CA., Santa Clara, CA., Millbrae, CA., and coming soon to San Mateo, CA.!! By the end 
+								of 2014 the sandwich spot will have 
+								opened 25 owner operated stores in the state of California as well as in Nevada!</p>
 							</div>
 							</div>
 							<div class="about-text s4">

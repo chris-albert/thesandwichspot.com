@@ -13,6 +13,7 @@ get_header(); ?>
 				friendly and personable staff that deliver
 				superior service. Come on in and give US a try!
 			</div>
+            <div id="sandwich-kings"><img src="<?php bloginfo('template_url'); ?>/images/sandwich_kings.png" alt="The Sandwich Kings" /></div>
 		</div>
 	</div>
 	

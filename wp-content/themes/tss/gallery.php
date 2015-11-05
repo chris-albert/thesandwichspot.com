@@ -15,7 +15,7 @@ $f = new phpFlickr("0917e22e53058d093989f8e15b5511ea","99c26be2a385501c");
 
 ///67559434@N02 tss old new (abandoned)
 
-$user = $f->urls_lookupUser('http://www.flickr.com/photos/69793189@N07');
+$user = $f->urls_lookupUser('https://www.flickr.com/photos/69793189@N07');
 $nsid = $user['id'];
 $set_id = '';
 if(isset($_GET['gid'])){
@@ -36,9 +36,7 @@ $set = $pset['photoset'];
  
  //$set['photo'] = array(1,2,23,3,4,4,3,3,3,34,3,43);
  
-
 get_header(); ?>
-
 	<div class="contain">
 		<div id="content" class="gallery">
 			

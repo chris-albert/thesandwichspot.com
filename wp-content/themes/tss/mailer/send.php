@@ -1,6 +1,7 @@
 <?php
 function sendEmail($sub){	
-	$to = "rbecijos@gmail.com";
+	$to = "thesandwichspot@yahoo.com";
+	//$to = "creasetoph@gmail.com";
 	$subject = "Form Submitted - The Sandwich Spot Corporate ";
 	$body = "Time: " . date("F j, Y, g:i a") . "\r\n\r\n";
 	$body.= "Details: \r\n===================\r\n";
@@ -26,12 +27,10 @@ function sendEmail($sub){
 	$headers .= 'Content-type: text/plain; charset=iso-8859-1' . "\r\n";
 	// Additional headers	
 	$headers .= 'To: '. $to . "\r\n";
-	$headers .= 'From: thesandwichspot.com <do_not_reply@thesandwichspot.com>\r\n';
+	$headers .= 'From: thesandwichspot.com <do_not_reply@thesandwichspot.com>'."\r\n";
 	//$headers .= 'X-Mailer: PHP/' . phpversion();	
-	
-	//print_r($body);
+	//print_r($headers);
 	$res = mail($to, $subject, $body, $headers);
-	
 	
 	return $res;
 }

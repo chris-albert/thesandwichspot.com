@@ -1187,7 +1187,7 @@ ol .ans{
 	text-align:center;
 }
 #follow-box{
-	margin-top:26px;
+	margin-top:6px;
 	margin-bottom:11px;
 	float:left;
 	width:100%;
@@ -1250,3 +1250,21 @@ ol .ans{
 	color:#e5a600;
 }
 
+#sandwich-kings {
+    color: yellow;
+    width: 395px;
+    margin-left: 240px;
+    margin-top: 55px;
+    line-height: 21px;
+    font-size: 18px;
+    text-align: center;
+    font-family: helvetica,arial,sans-serif;
+    letter-spacing: 1px;
+}
+
+#love-feed {
+    font-size: 10px;
+    text-transform: uppercase;
+    font-family: helvetica,arial,sans-serif;
+    color:#838383
+}
