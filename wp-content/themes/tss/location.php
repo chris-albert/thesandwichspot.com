@@ -136,8 +136,8 @@ get_header(); ?>
         </div>
         
 	<div class="le-address">
-            123 East El Camino Real, Mountain View, 94041 ‎/ (650) 906-6176 / Mon-Fri: <span class="weak">10-5</span>,
-            Sat: <span class="weak">11-5</span>, Sun: <span class="weak">Closed</span> Now Open!
+            123 East El Camino Real, Mountain View, 94041 ‎/ (650) 906-6176 / Mon-Fri: <span class="weak">10-7</span>,
+            Sat: <span class="weak">11-5</span>, Sun: <span class="weak">10-4</span> Now Open!
         </div>
         <div class="le-buttons">
 	<a href="https://maps.google.com/maps?q=123+East+El+Camino+Real,+Mountain+View&hnear=123+E+El+Camino+Real,+Mountain+View,+Santa+Clara,+California+94041&gl=us&t=m&z=16" target="_blank" class="le-button">Map</a>

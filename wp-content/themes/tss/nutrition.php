@@ -15,7 +15,7 @@ get_header(); ?>
 </style>
 
 <div class="contain">
-	<div class="nutrition-container" style="padding-top: 120px;">
+	<div id="content" class="nutrition-container" style="padding-top: 120px;">
  		<img height="600" width="450" src="/wp-content/nutrition/sandwichspot_nutrition_info-page-001.jpg" class="nutrition-img" />
  		<img height="600" width="450" src="/wp-content/nutrition/sandwichspot_nutrition_info-page-003.jpg" class="nutrition-img" />
  		<img height="600" width="450" src="/wp-content/nutrition/sandwichspot_nutrition_info-page-004.jpg" class="nutrition-img" />

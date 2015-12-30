@@ -49,10 +49,10 @@
 			</div>
 		</div></a>
 		<div class="nav-sep">|</div>
-		<a href="locations-for-sale"><div class="nav-box <?php if(is_page('locations-for-sale')) echo 'active-nav'; ?>">
+		<a href="nutrition"><div class="nav-box <?php if(is_page('nutrition')) echo 'active-nav'; ?>">
 			<div class="nav-text">
-				<div class="nt-top">Locations For Sale</div>
-				<div class="nt-bot">Get Your Spot</div>
+				<div class="nt-top">Nutrition</div>
+				<div class="nt-bot">Get The Deets</div>
 			</div>
 			<div class="nav-slide">
 			</div>
